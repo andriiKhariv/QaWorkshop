@@ -18,6 +18,7 @@ namespace tspp3
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("Bye Bye world");
+            Console.WriteLine("AKV");
         }
     }
 }
